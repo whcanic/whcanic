@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm whcanic 👋
 
-<!--
-**whcanic/whcanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer
 
-Here are some ideas to get you started:
+## Open Source Contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Element Plus
+- Fixed MessageBox rendering issue
+- Added unit tests with Vitest
+- PR merged into official repository
+
+🔗 PR:
+https://github.com/element-plus/element-plus/pull/24283
+
+## Screenshot
+
+<img width="2052" height="1280" alt="image" src="https://github.com/user-attachments/assets/424ef481-cc2e-427a-ae6d-2d172fc74a21" />
+
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,ts,js,vite,nodejs,git" />
+</p>
+
