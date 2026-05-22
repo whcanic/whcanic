@@ -15,5 +15,5 @@ https://github.com/element-plus/element-plus/pull/24283
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,ts,vite,webpack,nodejs,git,pinia,scss,axios,elementplus,vuerouter" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,ts,vite,webpack,nodejs,git,pinia,scss" />
 </p>
