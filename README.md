@@ -12,14 +12,9 @@ Frontend Developer
 🔗 PR:
 https://github.com/element-plus/element-plus/pull/24283
 
-## Screenshot
-
-<img width="2052" height="1280" alt="image" src="https://github.com/user-attachments/assets/424ef481-cc2e-427a-ae6d-2d172fc74a21" />
-
-
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,ts,js,vite,nodejs,git" />
+  <img src="https://skillicons.dev/icons?i=vue,ts,js,vite,nodejs,git,pinia,scss,vueRouter" />
 </p>
 
