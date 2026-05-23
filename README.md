@@ -9,8 +9,6 @@ Frontend Developer
 - Added unit tests with Vitest
 - PR merged into official repository
 
-🔗 PR:
-https://github.com/element-plus/element-plus/pull/24283
 
 ## Tech Stack
 
